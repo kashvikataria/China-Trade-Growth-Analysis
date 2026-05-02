@@ -9,8 +9,8 @@ OLS regression analysis of trade openness, FDI, and GDP growth in China (2000–
 ## Overview
 This project investigates the relationship between trade openness, foreign direct 
 investment (FDI), and GDP growth in China over a 25-year period. Using OLS regression, 
-the study quantifies how external economic integration has driven — and is now 
-constraining — China's growth trajectory.
+the study quantifies how external economic integration has driven and is now 
+constraining China's growth trajectory.
 
 ## Model
 GDP Growth = −0.7338 + 0.1501(Trade % GDP) + 1.0302(FDI % GDP) − 0.2448(Inflation)
@@ -29,7 +29,7 @@ GDP Growth = −0.7338 + 0.1501(Trade % GDP) + 1.0302(FDI % GDP) − 0.2448(Infl
 - Model explains 80.6% of variance in annual GDP growth
 - Post-2007 growth deceleration aligns with declining trade intensity following the GFC
 - COVID-19 (2020) produced the largest residual (−3.18), reflecting exogenous shock limitations of linear models
-- China's FDI inflows have collapsed from 4.49% of GDP (2005) to 0.10% (2024) — a structural headwind to future growth
+- China's FDI inflows have collapsed from 4.49% of GDP (2005) to 0.10% (2024); a structural headwind to future growth
 
 ## Files
 - `China_Trade_Growth_Analysis.pdf` — Full report including methodology, regression output, and policy implications
